@@ -1,0 +1,18 @@
+body{
+  background-color: darkslategrey;
+  padding:0;
+  margin: 0;
+}
+
+.box{
+  width: 80%;
+  padding:20px;
+  background-color: white;
+  margin: 20px;
+}
+
+.boxGroup{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
